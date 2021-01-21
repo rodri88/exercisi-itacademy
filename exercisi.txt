@@ -1,1 +1,5 @@
+
 Modificació del text, en la branch main (master). 
+
+Modificació del text de l'arxiu, en la branch1.
+
